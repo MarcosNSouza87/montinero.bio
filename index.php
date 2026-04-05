@@ -205,9 +205,9 @@
         <!-- Seção de Contatos -->
         <?php include 'includes/contacts.php' ?>
 
-        <footer class="mt-24 text-center opacity-30 hover:opacity-100 transition-opacity">
+        <!-- <footer class="mt-24 text-center opacity-30 hover:opacity-100 transition-opacity">
             <p class="text-[8px] text-gray-500 uppercase tracking-[0.5em] font-bold italic">Batalha é o que nos move</p>
-        </footer>
+        </footer> -->
     </main>
 
 </body>
