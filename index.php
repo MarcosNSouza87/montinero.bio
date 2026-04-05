@@ -7,7 +7,9 @@
     
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://unpkg.com/@phosphor-icons/web"></script>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Syncopate:wght@700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&display=swap" rel="stylesheet">
 
     <style>
         :root {
@@ -40,7 +42,7 @@
     color: #fff;
     
     /* Define a fonte padrão. */
-    font-family: 'Outfit', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
     
     /* Impede a rolagem horizontal acidental. */
     overflow-x: hidden;
@@ -49,7 +51,7 @@
 
 
         .industrial-font {
-            font-family: 'Syncopate', sans-serif;
+           
             text-transform: uppercase;
             letter-spacing: 0.3em;
         }
