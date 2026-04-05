@@ -7,7 +7,7 @@
             </div>
             
             <!-- Contato Bryan -->
-            <a href="https://wa.me/5513999999999" target="_blank" class="contact-card flex items-center p-5 rounded-2xl group">
+            <a href="https://wa.me/5513988688414" target="_blank" class="contact-card flex items-center p-5 rounded-2xl group">
                 <div class="w-12 h-12 rounded-xl bg-black flex items-center justify-center mr-4 border border-white/5 group-hover:border-red-600/30">
                     <i class="ph ph-microphone-stage text-2xl text-gray-600 group-hover:text-red-600"></i>
                 </div>
@@ -19,7 +19,7 @@
             </a>
 
             <!-- Contato Nipfhire -->
-            <a href="https://wa.me/5513999999999" target="_blank" class="contact-card flex items-center p-5 rounded-2xl group">
+            <a href="https://wa.me/5513991427167" target="_blank" class="contact-card flex items-center p-5 rounded-2xl group">
                 <div class="w-12 h-12 rounded-xl bg-black flex items-center justify-center mr-4 border border-white/5 group-hover:border-red-600/30">
                     <i class="ph ph-guitar text-2xl text-gray-600 group-hover:text-red-600"></i>
                 </div>
